@@ -1,4 +1,4 @@
-#include
+#include <stdio.h>
 /**
  * main - Entry point
  * Description 'print alphabets lowercase and uppercase'
@@ -21,3 +21,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
+}
